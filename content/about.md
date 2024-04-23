@@ -4,8 +4,6 @@ date: 2024-04-23
 draft: false
 ---
 
-![](../static/Profile.jpg)
-
 ## Hello, I'm Tejas
 
 I am a DevOps Engineer with 7+ years of experience in automating and optimizing mission-critical deployments over small and large infrastructure. Proficient with Linux and virtualization, I have a strong background in cloud services like OpenStack, with experience in public cloud platforms like Microsoft Azure and Google Cloud Platform. I am passionate about building scalable and efficient technology solutions.
