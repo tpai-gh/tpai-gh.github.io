@@ -1,0 +1,4 @@
+baseURL = 'https://tpai-gh.github.io/'
+languageCode = 'en-us'
+title = 'Tejas Pai | DevOps and Infrastructure Engineer'
+theme = "ananke"

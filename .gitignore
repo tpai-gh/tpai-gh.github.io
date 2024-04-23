@@ -1,21 +1,35 @@
-# If you prefer the allow list template instead of the deny list, see community template:
-# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
-#
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+# Hugo generated files
+/public/
+/resources/_gen/
+/hugo_stats.json
 
-# Test binary, built with `go test -c`
-*.test
+# Dependency directories (e.g., node_modules)
+/node_modules/
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+# OS generated files
+.DS_Store
+Thumbs.db
 
-# Dependency directories (remove the comment below to include it)
-# vendor/
+# Hugo configuration files that may contain sensitive information
+config.production.toml
 
-# Go workspace file
-go.work
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Build results
+/dist/
+*.lock
+
+# Private files that should not be in version control
+secrets.toml
